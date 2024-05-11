@@ -2,7 +2,7 @@
 name = "ndlsearch"
 version = "0.1.0"
 description = ""
-authors = ["TomohiroHiratsuka <tomtombaske@gmail.com>"]
+authors = ["TomohiroHiratsuka"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
